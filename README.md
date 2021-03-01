@@ -3,17 +3,9 @@
 ### Purpose
 The main purpose for this project was to refactor the code generated through the module that collected information for a 12 stocks, but to do so in a faster time. This will be helpful since Steve's goal is to be able to run the code for a dataset that will have thousands of stocks, and not just 12.
 ## Results
-The original code for 2017 had an elapsed time of .5800781 seconds and for 2018 was .5878906 seconds.
+The results for the original code for 2017 had an elapsed time of .5800781 seconds and for 2018 was .5878906 seconds.
 
-For 2017, the refactored code genearated a much faster time of .1152344 seconds.
-
-![VBA_Challenge_2017](https://github.com/DanielGandia/stock-analysis/blob/main/Resources/VBA_Challenge_2017.png)
-
-For 2018, the refactored code generated the below time of .1210938 seconds. 
-
-![VBA_Challenge_2018](https://github.com/DanielGandia/stock-analysis/blob/main/Resources/VBA_Challenge_2018.png)
-
-Below is the code that was written to update the VBS file that was provided. 
+Below is the code that was written to refactor the VBS file that was provided for this project. 
 
     '1a) Create a ticker Index
     tickerIndex = 0
@@ -67,6 +59,15 @@ Below is the code that was written to update the VBS file that was provided.
         
         
     Next i
+For 2017, the above mentioned refactored code genearated a much faster time of .1152344 seconds.
+
+![VBA_Challenge_2017](https://github.com/DanielGandia/stock-analysis/blob/main/Resources/VBA_Challenge_2017.png)
+
+The same could be said for 2018, the refactored code generated a time of .1210938 seconds. 
+
+![VBA_Challenge_2018](https://github.com/DanielGandia/stock-analysis/blob/main/Resources/VBA_Challenge_2018.png)
+
+
 ## Summary
 ### Advantages & Disadvantages
 

@@ -5,7 +5,7 @@ The main purpose for this project was to refactor the code generated through the
 ## Results
 The results for the original code for 2017 had an elapsed time of .5800781 seconds and for 2018 was .5878906 seconds.
 
-Below is the code that was written to refactor the VBS file that was provided for this project. 
+Below is the code that was written to refactor the VBS file provided for this project. 
 
     '1a) Create a ticker Index
     tickerIndex = 0

@@ -63,7 +63,7 @@ For 2017, the above mentioned refactored code genearated a of .1152344 seconds.
 
 ![VBA_Challenge_2017](https://github.com/DanielGandia/stock-analysis/blob/main/Resources/VBA_Challenge_2017.png)
 
-The same could be said for 2018, the refactored code generated a time of .1210938 seconds. 
+For 2018, the refactored code generated a time of .1210938 seconds. 
 
 ![VBA_Challenge_2018](https://github.com/DanielGandia/stock-analysis/blob/main/Resources/VBA_Challenge_2018.png)
 

@@ -59,7 +59,7 @@ Below is the code that was written to refactor the VBS file provided for this pr
         
         
     Next i
-For 2017, the above mentioned refactored code genearated a much faster time of .1152344 seconds.
+For 2017, the above mentioned refactored code genearated a of .1152344 seconds.
 
 ![VBA_Challenge_2017](https://github.com/DanielGandia/stock-analysis/blob/main/Resources/VBA_Challenge_2017.png)
 

@@ -5,7 +5,7 @@ The main purpose for this project was to refactor the code generated through the
 ## Results
 The results for the original code for 2017 had an elapsed time of .5800781 seconds and for 2018 was .5878906 seconds.
 
-Below is the code that was written to refactor the VBS file provided for this project. 
+By refactoring the below code, that was provided for this project in a VBS file, it help improved the time. Below the code you can also see the new times after the new code was written and run. 
 
     '1a) Create a ticker Index
     tickerIndex = 0
@@ -59,7 +59,7 @@ Below is the code that was written to refactor the VBS file provided for this pr
         
         
     Next i
-For 2017, the above mentioned refactored code genearated a of .1152344 seconds.
+For 2017, the above mentioned refactored code genearated a time of .1152344 seconds.
 
 ![VBA_Challenge_2017](https://github.com/DanielGandia/stock-analysis/blob/main/Resources/VBA_Challenge_2017.png)
 

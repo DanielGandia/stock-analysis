@@ -5,7 +5,7 @@ The main purpose for this project was to refactor the code generated through the
 ## Results
 The results for the original code for 2017 had an elapsed time of .5800781 seconds and for 2018 was .5878906 seconds.
 
-By refactoring the below code, that was provided for this project in a VBS file, it help improved the time. Below the code you can also see the new times after the new code was written and run. 
+By filling in the code on the VBS file that was provided for this project in order to refactor it, it help improved the time it took to run the analysis. Below I have pasted the code. You will also see the new times after the new code was refactured and run. I have added the pop-up messages below the code. 
 
     '1a) Create a ticker Index
     tickerIndex = 0

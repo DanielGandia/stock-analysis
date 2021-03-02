@@ -3,8 +3,6 @@
 ### Purpose
 The main purpose for this project was to refactor the code generated through the module that collected information for a 12 stocks, but to do so in a faster time. This will be helpful since Steve's goal is to be able to run the code for a dataset that will have thousands of stocks, and not just 12.
 ## Results
-The results for the original code for 2017 had an elapsed time of .5800781 seconds and for 2018 was .5878906 seconds.
-
 By filling in the code on the VBS file that was provided for this project in order to refactor it, it help improved the time it took to run the analysis. Below I have pasted the code. You will also see the new times after the new code was refactured and run. I have added the pop-up messages below the code. 
 
     '1a) Create a ticker Index
@@ -67,6 +65,7 @@ For 2018, the refactored code generated a time of .1210938 seconds.
 
 ![VBA_Challenge_2018](https://github.com/DanielGandia/stock-analysis/blob/main/Resources/VBA_Challenge_2018.png)
 
+As a comparison, the results for the original code for the "All Stocks Analysis" for 2017 had an time of .5800781 seconds and for 2018 was .5878906 seconds.
 
 ## Summary
 ### Advantage of the Refactored Code

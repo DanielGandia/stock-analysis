@@ -69,7 +69,8 @@ For 2018, the refactored code generated a time of .1210938 seconds.
 
 
 ## Summary
-### Advantages & Disadvantages
-
+### Advantage of the Refactored Code
+As previously stated on the results, the biggest advantage of the refactored code was the fact that it cut the run time to almost 4 times faster for each 2017 and 2018 analysis.  
 
 ### Pros & Cons of the original VBA Script
+The pro of the original code was the fact that it was able to generated the same numbers and ultimately provide with the necessary analysis. However, the con is that the the refactored code cut so much time that it will be usable with a larger dataset. The original code was slower when it was ran and at times it was also laggy. 
